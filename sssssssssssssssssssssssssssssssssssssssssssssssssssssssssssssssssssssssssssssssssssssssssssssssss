@@ -1,0 +1,101 @@
+[33mcommit 93ac9533c03f2eca22f57f5850153e03b7d8b5a7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Apolo Lopes <apoloaugusto10@hotmail.com>
+Date:   Wed Jan 6 15:13:16 2021 -0300
+
+    novo commit
+
+[33mcommit 64d4517468d9192b77e2b5e75a98c5b62cc817a2[m
+Author: Apolo Lopes <apoloaugusto10@hotmail.com>
+Date:   Wed Jan 6 15:01:20 2021 -0300
+
+    meu primeiro commit
+
+[33mcommit 41a489d33888b71c5d8d1d7eb64a2c0625ab64b0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SudKul <sudhanshu.kulshrestha@gmail.com>
+Date:   Mon Sep 7 19:33:46 2020 +0530
+
+    In MainActivity.kt, changes the type of savedInstanceState from Bundle? to Bundle.
+
+[33mcommit 9c40523a825f7c8bcb6976d9bfc2adfd458d7a0a[m
+Author: SudKul <sudhanshu.kulshrestha@gmail.com>
+Date:   Tue Aug 25 20:48:40 2020 +0530
+
+    Enable databinding using buildfeatures
+
+[33mcommit 3e4a06002826cc21da4147a7cd978f86d2dcde24[m
+Author: SudKul <sudhanshu.kulshrestha@gmail.com>
+Date:   Wed Aug 19 22:55:55 2020 +0530
+
+    Update Gradle scripts
+
+[33mcommit a6c2260c565404df6a5dfe357317ba423cbc8369[m
+Author: SudKul <sudhanshu.kulshrestha@gmail.com>
+Date:   Wed Aug 19 22:54:06 2020 +0530
+
+    Update Gradle scripts
+
+[33mcommit 2e0087dd93756d934dfff3730d40275d584d10aa[m
+Author: Lyla Fujiwara <lmf@google.com>
+Date:   Wed Apr 24 15:28:01 2019 -0700
+
+    Step.05-Solution-Implement-onSaveInstanceState
+
+[33mcommit ab44ab4a8f080e130a7e56d59d36263606f35d66[m
+Author: Lyla McBeath Fujiwara <lmf@google.com>
+Date:   Thu Jul 12 21:14:18 2018 -0700
+
+    Step.05-Exercise-Implement-onSaveInstanceState
+
+[33mcommit d952befd14844f5ed40f1a8a19d5a71071a40d58[m
+Author: Lyla McBeath Fujiwara <lmf@google.com>
+Date:   Thu Jul 12 21:03:37 2018 -0700
+
+    Step.04-Solution-Add-the-lifecycle-library
+
+[33mcommit 018c13913d22f70b359eb175bb6e973cec0e64d6[m
+Author: Lyla McBeath Fujiwara <lmf@google.com>
+Date:   Thu Jul 12 20:49:56 2018 -0700
+
+    Step.04-Exercise-Add-the-lifecycle-library
+
+[33mcommit 7e6aefbe00e4e2f908148860874fb5547bf33ebf[m
+Author: Lyla M. Fujiwara <lmf@google.com>
+Date:   Fri Jul 27 10:57:19 2018 -0700
+
+    Step.03-Solution-Setup-and-tear-down
+
+[33mcommit a0e00948c405e80b27d29047bc0a532822022e73[m
+Author: Lyla M. Fujiwara <lmf@google.com>
+Date:   Fri Jul 27 10:51:55 2018 -0700
+
+    Step.03-Exercise-Setup-and-tear-down
+
+[33mcommit 4bb407acbf935579ff626956fc29ca8711364991[m
+Author: Lyla Fujiwara <lmf@google.com>
+Date:   Wed Apr 24 15:26:37 2019 -0700
+
+    Step.02-Solution-Timber-for-logging
+
+[33mcommit 5db4c6780f748d5940edf474e2c353dc7fc91a5c[m
+Author: Lyla Fujiwara <lmf@google.com>
+Date:   Wed Apr 24 15:24:30 2019 -0700
+
+    Step.02-Exercise-Timber-for-logging
+
+[33mcommit 17be9560c31a6a1fbe9caf14f65abd9a11fd5b9e[m
+Author: Lyla M. Fujiwara <lmf@google.com>
+Date:   Tue Jul 24 17:46:39 2018 -0700
+
+    Step.01-Solution-Logging-a-callback
+
+[33mcommit 4c06f74695400fdf656d850c5a132012c4c7b0be[m
+Author: Lyla M. Fujiwara <lmf@google.com>
+Date:   Fri Jul 27 11:28:05 2018 -0700
+
+    Step.01-Exercise-Logging-a-callback
+
+[33mcommit 8e36920c9d4dc44f668ee62cf3fa131d0a1955d3[m
+Author: Lyla M. Fujiwara <lmf@google.com>
+Date:   Thu Jun 14 11:24:39 2018 -0400
+
+    Initial Commit
